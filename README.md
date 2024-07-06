@@ -1,1 +1,1 @@
-# to-do-list
+# Simple TO-DO lists app
